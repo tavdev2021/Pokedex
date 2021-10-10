@@ -11,7 +11,7 @@
         android:id="@+id/detail_fragment"
         android:name="com.tavitodev.pokedex.DetailFragment"
         android:layout_width="match_parent"
-        android:layout_height="250dp"/>
+        android:layout_height="wrap_content"/>
 
     <fragment
         android:id="@+id/list_fragment"

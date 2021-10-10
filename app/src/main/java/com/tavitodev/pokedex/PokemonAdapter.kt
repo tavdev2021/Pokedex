@@ -50,6 +50,7 @@ class PokemonAdapter: ListAdapter<Pokemon, ViewHolder>(DiffCallback) {
                 Pokemon.PokemonType.FIRE -> R.drawable.fire_icon
                 Pokemon.PokemonType.FIGHTER -> R.drawable.fighter_icon
                 Pokemon.PokemonType.ELECTRIC -> R.drawable.electric_icon
+                Pokemon.PokemonType.WIND -> R.drawable.wind_icon
             }
             typeImage.setImageResource(imageId)
             view.setOnClickListener{
