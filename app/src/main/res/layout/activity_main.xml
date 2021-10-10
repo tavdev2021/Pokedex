@@ -9,10 +9,13 @@
 
     <fragment
         android:id="@+id/detail_fragment"
+        android:name="com.tavitodev.pokedex.DetailFragment"
         android:layout_width="match_parent"
         android:layout_height="250dp"/>
+
     <fragment
         android:id="@+id/list_fragment"
+        android:name="com.tavitodev.pokedex.ListFragment"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/detail_fragment"
