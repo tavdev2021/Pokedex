@@ -6,12 +6,25 @@
     android:orientation="vertical"
     tools:context=".DetailFragment">
 
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
     <ImageView
         android:id="@+id/fragment_detail_image"
         android:layout_width="match_parent"
         android:layout_height="200dp"
         android:scaleType="centerCrop"
         android:src="@drawable/pikachu"/>
+
+        <ProgressBar
+            android:id="@+id/loading_wheel"
+            android:layout_gravity="center"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </FrameLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
