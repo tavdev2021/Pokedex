@@ -7,4 +7,9 @@
     <string name="attack_format">Attack: %d</string>
     <string name="defense_format">Defense: %d</string>
     <string name="speed_format">Speed: %d</string>
+    <string name="pokemon_description">Pokémon es una franquicia de medios que originalmente comenzó como un videojuego RPG, pero debido a su popularidad ha logrado expandirse a otros medios de entretenimiento como series de televisión, películas, juegos de cartas, ropa, entre otros, convirtiéndose en una marca que es reconocida en el mercado mundial. Las ventas de videojuegos hasta el 1 de diciembre de 2006 habían alcanzado una cantidad de 340 millones de ejemplares (incluyendo la venta de la versión Pikachu de la consola Nintendo 64), logrando ocupar el segundo lugar de las sagas de videojuegos más vendidos de Nintendo. La franquicia celebró su décimo aniversario el 27 de febrero de 2006.</string>
+    <string name="pikachu_description">Cuanto más potente es la energía eléctrica que genera este Pokémon, más suaves y elásticas se vuelven las bolsas de sus mejillas.</string>
+    <string name="bulbasaur_description">Este Pokémon nace con una semilla en el lomo, que brota con el paso del tiempo.</string>
+    <string name="charmander_description">Prefiere las cosas calientes. Dicen que cuando llueve le sale vapor de la punta de la cola.</string>
+    <string name="squirtle_description">Cuando retrae su largo cuello en el caparazón, dispara agua a una presión increíble.</string>
 </resources>
